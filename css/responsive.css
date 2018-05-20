@@ -36,7 +36,7 @@
     }
 
     .featured-image {
-        background: url(../images/featured-bg-small.jpeg) cover;
+        background: url(../images/small.jpg) center / cover;
         height: 450px;
         box-shadow: none;
         border-radius: 0;
